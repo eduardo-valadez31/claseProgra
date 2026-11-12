@@ -1,6 +1,7 @@
 
 import './App.css'
 import Button from './components/atoms/Button'
+import Footer from './components/organisms/footer'
 
 
 function App() {
@@ -43,6 +44,7 @@ function App() {
           </div>
         </aside>
       </section>
+      <Footer />
     </>
   )
 }
